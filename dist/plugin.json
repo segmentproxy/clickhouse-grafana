@@ -8,7 +8,7 @@
   "alerting": false,
 
   "info": {
-    "description": "ClickHouse datasource for Grafana",
+    "description": "Smartlytics adaptation of a ClickHouse datasource by Vertamedia",
     "author": {
       "name": "Vertamedia",
       "url": "https://vertamedia.com/"
